@@ -1,0 +1,13 @@
+body {
+    color: #3d52dfd2;
+  }
+  .jumbotron {
+    /* background: url("../images/bellybutton.jpg"); */
+    background-image: url("../images/bellybutton.jpg");
+    /* background-image: var(--bs-gradient); */
+    background-blend-mode: luminosity;
+    background-size: 40% 100%;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 191, 255, 0.3);
+  }
